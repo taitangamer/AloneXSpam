@@ -3,7 +3,7 @@ from telethon import events, Button
 from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, CMD_HNDLR as hl
 
 
-HELP_STRING = f"★ 𝘼𝙡𝙤𝙣𝙚𝙓 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ALONE_WAS_BOT**"
+HELP_STRING = f"★ 𝙏𝙖𝙞𝙩𝙖𝙣𝙓 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ALONE_WAS_BOT**"
 
 HELP_BUTTON = [
     [
@@ -14,8 +14,8 @@ HELP_BUTTON = [
       Button.inline("• ᴇxᴛʀᴀ •", data="extra")
     ],
     [
-      Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/AloneXBots"),
-      Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/AlonesHeaven")
+      Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/taitanoffice"),
+      Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/nightfighter0")
     ]
   ]
 
